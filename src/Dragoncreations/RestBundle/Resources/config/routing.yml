@@ -1,0 +1,3 @@
+dragoncreations_rest:
+    resource: Dragoncreations\RestBundle\Controller\ApiController
+    type: rest
